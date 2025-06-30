@@ -1,0 +1,36 @@
+{
+  "test_users": [
+    {
+      "username": "test_user_1",
+      "phone": "13800138001",
+      "email": "test1@example.com",
+      "password": "Test123456"
+    },
+    {
+      "username": "test_user_2", 
+      "phone": "13800138002",
+      "email": "test2@example.com",
+      "password": "Test654321"
+    }
+  ],
+  "search_keywords": [
+    "相机",
+    "镜头", 
+    "摄影",
+    "尼康",
+    "Z系列"
+  ],
+  "navigation_items": [
+    "首页",
+    "照片", 
+    "学习讨论",
+    "直营店画廊",
+    "摄影圈"
+  ],
+  "browser_sizes": [
+    {"width": 1920, "height": 1080, "name": "Desktop"},
+    {"width": 1366, "height": 768, "name": "Laptop"},
+    {"width": 768, "height": 1024, "name": "Tablet"}, 
+    {"width": 375, "height": 667, "name": "Mobile"}
+  ]
+}
